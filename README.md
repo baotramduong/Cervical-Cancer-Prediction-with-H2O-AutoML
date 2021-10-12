@@ -36,9 +36,7 @@ This Cervical Cancer (Risk Factors) dataset comes from [UCI Machine Learning Rep
 
 <img src = '../main/Data & Images/cm.png'>
 
-<img src = '../main/Data & Images/maximum metrics.png'>
-
-<img src = '../main/Data & Images/learning_curve_plot.png'>
+<img src = '../main/Data & Images/Maximum Metrics.png'>
 
 <img src = '../main/Data & Images/SHAP Summary.png'>
 
