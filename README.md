@@ -2,9 +2,11 @@
 
 ## Blog
 
-[Medium Blog]()
+[Medium Blog](https://baotramduong.medium.com/cervical-cancer-risk-prediction-with-h2o-automl-lime-200599b646be)
 
 ## Introduction
+
+In this project, we will identify the characteristics of women who are more likely to develop cervical cancer and use Automatic Machine Learning H2O AutoML to make prediction on whether or not a certain customer would buy a term deposit. We will also use Explainable AI (XAI) methods such as Variable Importance Plot, Partial Dependence Plot, SHAP Summary Plot, and LIME to explain how each of our feature input affects our model prediction.
 
 ## Data Source
 
